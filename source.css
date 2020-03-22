@@ -1,0 +1,28 @@
+.help {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100px;
+	height: 50px;
+	font-size: 15px;
+	background: grey;
+}
+* {
+	outline: none;
+}
+textarea {
+	opacity: 0;
+}
+.helpTxt {
+	height: 50px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+.input {
+	width: 90%;
+	height: 10%;
+}
+.convert {
+	width: 9%;
+}
